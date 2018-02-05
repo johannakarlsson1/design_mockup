@@ -82,9 +82,8 @@ ul li {
   margin-left: 20px;
 }
 
-.circle p {
+.circle h2 {
   position: relative;
-  top: 1em;
   color: #732A85;
   font-weight: bold;
 }
